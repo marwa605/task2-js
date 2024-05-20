@@ -1,0 +1,14 @@
+.session h1{
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: 700;
+    color: black;
+}
+.session button{
+    background-color: blue;
+}
+.session button:hover{
+
+    background-color: lightgreen;
+
+}
